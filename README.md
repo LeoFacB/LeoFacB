@@ -1,16 +1,27 @@
-### Hi there 👋
+### Oi! Eu sou o Leonardo  👋
 
-<!--
-**LeoFacB/LeoFacB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim 👤
 
-Here are some ideas to get you started:
+Eu sou atualmente um estudante de Engenharia de Software na Universidade de Brasília (UnB) no 5 semestre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e linguagens 💻
+
+Ja realizei projetos com as linguagens e tecnologias:
+
+* C
+* Java
+* Javascript
+* Python
+* PHP
+* Docker/Podman
+* MySQL
+
+## Area de Estudos 📚
+
+Atualmente estou com foco no Javascript e em aplicacoes usando Docker.
+
+## Formas de contato 📫
+
+### Email Pessoal ✉️
+
+leonardofbonetti@gmail.com
